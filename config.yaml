@@ -26,11 +26,11 @@ storage:
   audit_retention_days: 365
 
 databases:
-  - name: "jayendra-sqlserver"
-    type: "sqlserver"
-    host: 'JAYENDRA\SQLEXPRESS'
+  - name: 
+    type: 
+    host: 
     port: 1433
-    database: "MyDatabase"
+    database: 
     username: ""
     password: ""
     enabled: true
