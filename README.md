@@ -24,16 +24,16 @@ A production-grade autonomous database administration agent that monitors SQL Se
 │  🗄️ AIDBA — Autonomous Database Administrator      [● Live] [+DB] │
 ├──────────────────────────────────────────────────────────────────┤
 │  📊 Database Health        │  🔌 Connected Databases             │
-│  ✓ jayendra-sqlserver     │  ● jayendra-sqlserver               │
+│  ✓ jayendra    │  ● jayendra               │
 │    Microsoft SQL Server    │    Microsoft SQL Server 2022        │
 │    2022 (RTM) 16.00.1000  │                                      │
 ├────────────────────────────┴─────────────────────────────────────┤
 │  📈 Performance Metrics (Live)                                  │
 │  TIMESTAMP  | DB                  | METRIC              | VALUE  │
-│  09:15:30   | jayendra-sqlserver  | active_connections  |  4.00 │
-│  09:15:30   | jayendra-sqlserver  | cpu_usage_pct       | 12.34 │
-│  09:15:30   | jayendra-sqlserver  | cache_hit_ratio     | 99.50 │
-│  09:15:30   | jayendra-sqlserver  | running_sessions    |  2.00 │
+│  09:15:30   | jayendra  | active_connections  |  4.00 │
+│  09:15:30   | jayendra  | cpu_usage_pct       | 12.34 │
+│  09:15:30   | jayendra| cache_hit_ratio     | 99.50 │
+│  09:15:30   | jayendra  | running_sessions    |  2.00 │
 ├─────────────────────────────────────────────────────────────────┤
 │  🐌 Slow Queries                                                │
 │  DB              | AVG MS | CALLS | QUERY                         │
